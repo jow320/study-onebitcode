@@ -12,6 +12,7 @@ float area1, area2;
 float pib1, pib2;
 int pontosT1, pontosT2;
 int escolhaJogador;
+int escolhaJogador2;
 
 
 // Perguntas quanto a cidade 1 e armazenamento nas variáveis
